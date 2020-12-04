@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+gem 'i18n', '1.8.5'
+
+if ENV['WITH_NEW_GEM']
+  gem 'deep_merge', '1.2.1'
+end

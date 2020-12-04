@@ -1,0 +1,21 @@
+PATH
+  remote: dummy
+  specs:
+    dummy (0)
+      i18n (= 1.8.5)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    concurrent-ruby (1.1.6)
+    i18n (1.8.5)
+      concurrent-ruby (~> 1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dummy!
+
+BUNDLED WITH
+   2.1.4
